@@ -15,5 +15,8 @@ main:
   - name: Resources
     weight: 40
     hasChildren: true
-  - name: Blog
+  - parent: 关于我们
+    name: Blog
     url: blog/
+    name: Blog2
+    url: blog2/

@@ -15,6 +15,5 @@ main:
   - name: Resources
     weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
+  - name: Blog
     url: blog/

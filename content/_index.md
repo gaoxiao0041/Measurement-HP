@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: 高能X射线结构解析
+      text: 🧱 原位. 专业. NO-CODE  🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -43,9 +43,9 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "11年"
           description: |
-            Websites built  
+            XAFS/SAXS/WAXS  
             with Hugo Blox
         - statistic: "10k+"
           description: |
@@ -67,15 +67,15 @@ sections:
       title: 解析能力
       text: Build your site with blocks 🧱
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+        - name: 锂离子/二次电池
+          icon: battery-100
+          description: 透射、荧光、电子收量
+        - name: 催化剂
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+        - name: GISAXS/WAXS
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+          description: 湿度变化
         - name: No-Code
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
@@ -142,6 +142,4 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-300"
         css_style: ""
-
-
 ---

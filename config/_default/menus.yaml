@@ -18,5 +18,6 @@ main:
   - parent: 关于我们
     name: Blog
     url: blog/
+  - parent: 关于我们
     name: Blog2
     url: blog2/

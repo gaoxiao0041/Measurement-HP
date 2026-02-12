@@ -142,4 +142,18 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-300"
         css_style: ""
+
+   - block: markdown
+          id: hero
+          content:
+            title: Hi, I'm George
+            subtitle: I build open source software.
+            text: Welcome to my portfolio.
+          design:
+            background:
+              image:
+                filename: bg.jpg
+                filters:
+                  brightness: 0.5
+
 ---
